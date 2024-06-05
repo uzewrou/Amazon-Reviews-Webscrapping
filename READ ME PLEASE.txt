@@ -1,0 +1,5 @@
+1) Download chromedriver (already attached) if that doesnt work use this link - https://googlechromelabs.github.io/chrome-for-testing/
+
+2) Make sure to download the amazon alexa file attached as that was used to train the model
+
+3) Navigate to the products page on Amazon, scroll to the bottom of the page, and click on "See all reviews." Copy the link of that webpage and insert it into the code wherever specified.
